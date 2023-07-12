@@ -121,6 +121,7 @@
 	height: 30px;
 	width: 30px;
 	float: right;
+	position:fixed;
 }
 .last_emo{
 	width: 30px;
